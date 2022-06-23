@@ -1,0 +1,15 @@
+import styled from "styled-components";
+
+export const Container = styled.div`
+    height: 150px;
+    text-align: center;
+    background: purple;
+    
+`;
+// background: linear-gradient(to top, #ffffff, #ff00dd);
+export const Header = styled.h1``;
+
+export const title = styled.div`
+padding-top: 20px;
+color: #fff;
+`;
